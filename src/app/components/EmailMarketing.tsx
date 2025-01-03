@@ -2,14 +2,8 @@
 import React from 'react';
 import { useTranslations } from 'next-intl';
 
-import { Montserrat } from 'next/font/google';
 import Image from 'next/image';
 import Link from 'next/link';
-
-const montserrat = Montserrat({
-    subsets: ['latin'],
-    weight: '600', // Regular 400
-});
 
 
 

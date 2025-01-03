@@ -4,7 +4,6 @@ import { notFound } from 'next/navigation';
 import { routing } from '@/i18n/routing';
 import Header from '../components/Header';
 import './globals.css';
-import Cards from '../components/Cards';
 import SobreNosotros from '../components/SobreNosotros';
 import Elegirnos from '../components/Elegirnos';
 import Capacitacion from '../components/Capacitacion';
@@ -39,7 +38,6 @@ export default async function LocaleLayout({
       <body>
         <NextIntlClientProvider messages={messages}>
           <Header />
-          {/* <Cards/> */}
           <SobreNosotros />
           <Elegirnos />
           <Capacitacion />

@@ -60,7 +60,7 @@ const Elegirnos: React.FC = () => {
             </div>
             <div>
                 <Image
-                    src="/assets/analytics.png"
+                    src="/assets/img-analytics.png"
                     width={683}
                     height={768}
                     alt="Walo B2B socio estrategico para construir relaciones solidas"

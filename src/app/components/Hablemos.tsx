@@ -1,14 +1,9 @@
 // components/Header.tsx
 import React from 'react';
 import { useTranslations } from 'next-intl';
-import { Montserrat } from 'next/font/google';
 import Image from 'next/image';
 import Link from 'next/link';
 
-const montserrat = Montserrat({
-    subsets: ['latin'],
-    weight: '600', // Regular 400
-});
 
 
 
@@ -19,7 +14,7 @@ const Hablemos: React.FC = () => {
             <div>
                 <Image
                     className='rounded-tl-[100px] rounded-br-[100px]'
-                    src="/assets/hablemos.webp"
+                    src="/assets/img-hablemos.webp"
                     width={600}
                     height={600}
                     alt="Walo B2B socio estrategico para construir relaciones solidas"

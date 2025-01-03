@@ -1,7 +1,6 @@
 // components/Header.tsx
 import React from 'react';
 import Image from 'next/image';
-import { useTranslations } from 'next-intl';
 
 import { Bricolage_Grotesque } from 'next/font/google';
 
@@ -11,7 +10,6 @@ const bricolageGrotesque = Bricolage_Grotesque({
 });
 
 const Cards: React.FC = () => {
-    const t = useTranslations('Home');
     return (
 
         <div className={`container mx-auto grid grid-rows-10 grid-flow-row sm:grid-flow-col gap-8 pt-14 px-14 pb-14 sm:pt-24 sm:px-24 sm:pb-0 h-[auto] sm:h-[100vh] text-[30px] leading-[1] ${bricolageGrotesque.className}`}>
