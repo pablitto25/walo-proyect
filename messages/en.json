@@ -1,0 +1,64 @@
+{
+  "Home": {
+    "headerTitle": "Our expertise",
+    "headerSecondTitle": "at your service"
+  },
+  "Navbar": {
+    "sobreNosotros": "About Us",
+    "elegirnos": "Why Choose Us?",
+    "servicios": "Services",
+    "contactanos": "Contact Us",
+    "leadGeneration": "Lead Generation",
+    "capacitaciones": "Trainings",
+    "emailMarketing": "E-mail Marketing"
+  },
+  "SobreNosotros": {
+    "title": "About Us",
+    "subtitle": "At WALO, we transform connections into opportunities and strategies into results. We are more than a B2B prospecting company: we are your strategic partner to reach ideal clients and build meaningful relationships.",
+    "card1Title": "Our Mission",
+    "card1Description": "To help you identify, connect, and solidify relationships with clients who will drive your business to the next level.",
+    "card2Title": "Our Vision",
+    "card2Description": "To become the trusted benchmark in Latin America for companies looking to strengthen their presence in competitive markets."
+  },
+  "PorQueElegirnos": {
+    "title": "Why Choose Us?",
+    "subtitle1": "Constant Collaboration",
+    "subtitle2": "Prospecting Experts",
+    "subtitle3": "Results-Oriented"
+  },
+  "Capacitaciones": {
+    "title": "Trainings",
+    "subtitle": "We design practical and strategic programs for your team to master key skills such as:",
+    "list1": "Identifying and prospecting qualified leads.",
+    "list2": "Creating persuasive and effective messages.",
+    "list3": "Mastering key tools like LinkedIn Sales Navigator.",
+    "list4": "Advanced objection handling techniques.",
+    "other1": "In a competitive business world, knowledge is not",
+    "other2": "just power; it's conversion.",
+    "agendarUnaCita": "Schedule Now"
+  },
+  "LeadGeneration": {
+    "title": "Lead Generation",
+    "subtitle": "We use personalized strategies and cutting-edge tools to identify real opportunities and turn them into valuable relationships.",
+    "card1": "In-depth market analysis to identify your target audience.",
+    "card2": "Customized prospecting strategies that highlight your value proposition.",
+    "card3": "Advanced use of platforms to maximize the effectiveness of each contact.",
+    "card4": "Constant follow-up and results optimization to ensure a continuous flow of qualified leads.",
+    "agendarUnaCita": "Schedule Now"
+  },
+  "EmailMarketing": {
+    "title": "Email",
+    "title2": "Marketing",
+    "description1": "In a world where effective communication is key, our email marketing services are designed to help you reach your target audience in a direct and personalized way.",
+    "description2": "We specialize in creating campaigns that generate real connections, foster lasting relationships, and increase your conversions.",
+    "agendarUnaCita": "Schedule Now"
+  },
+  "Hablemos": {
+    "title": "Let's Talk!",
+    "title2": "Email Address",
+    "email": "hola@walo-consulting.com.ar",
+    "title3": "Phone Number",
+    "telefono": "+54 9 343 419-1913",
+    "agendarUnaCita": "Schedule Now"
+  }
+}

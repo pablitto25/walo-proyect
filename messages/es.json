@@ -1,0 +1,65 @@
+{
+  "Home": {
+    "headerTitle": "Nuestro expertise",
+    "headerSecondTitle": "a tu servicio"
+  },
+  "Navbar": {
+    "sobreNosotros": "Sobre Nosotros",
+    "elegirnos": "¿Por qué elegirnos?",
+    "servicios": "Servicios",
+    "contactanos": "Contactanos",
+    "leadGeneration": "Lead Generation",
+    "capacitaciones": "Capacitaciones",
+    "emailMarketing": "E-mail Marketing"
+  },
+  "SobreNosotros": {
+    "title": "Sobre nosotros",
+    "subtitle": "En WALO, transformamos conexiones en oportunidades y estrategias en resultados. Somos más que una empresa de prospección B2B: somos tu socio estratégico para alcanzar clientes ideales y construir relaciones que realmente importan.",
+    "card1Title": "Nuestra misión",
+    "card1Description": "Ayudarte a identificar, conectar y consolidar relaciones con los clientes que impulsarán tu negocio al siguiente nivel.",
+    "card2Title": "Nuestra visión",
+    "card2Description": "Convertirnos en el referente de confianza en América Latina para empresas que buscan fortalecer su presencia en mercados competitivos"
+  },
+  "PorQueElegirnos": {
+    "title": "¿Por qué elegirnos?",
+    "subtitle1": "Colaboración constante",
+    "subtitle2": "Expertos en prospección",
+    "subtitle3": "Orientados a resultados"
+  },
+  "Capacitaciones": {
+    "title": "Capacitaciones",
+    "subtitle": "Diseñamos programas prácticos y estratégicos para que tu equipo domine habilidades clave como:",
+    "list1": "Identificación y prospección de leads calificados.",
+    "list2": "Creación de mensajes persuasivos y efectivos.",
+    "list3": "Dominio de herramientas clave como LinkedIn Sales Navigator.",
+    "list4": "Técnicas avanzadas de manejo de objeciones.",
+    "other1": "En un mundo de negocios competitivo, el conocimiento no",
+    "other2": "solo es poder, es conversión.",
+    "agendarUnaCita": "Agendar una cita"
+  },
+  "LeadGeneration": {
+    "title": "Lead Generation",
+    "subtitle": "Utilizamos estrategias personalizadas y herramientas de vanguardia para identificar oportunidades reales y convertirlas en relaciones valiosas.",
+    "card1": "Análisis profundo del mercado para identificar tu público objetivo.",
+    "card2": "Estrategias de prospección personalizadas que destacan tu propuesta de valor.",
+    "card3": "Uso avanzado de plataformas para maximizar la efectividad de cada contacto.",
+    "card4": "Seguimiento constante y optimización de resultados para asegurar un flujo continuo de leads calificados.",
+    "agendarUnaCita": "Agendar una cita"
+  },
+  "EmailMarketing": {
+    "title": "E-mail",
+    "title2": "marketing",
+    "description1": "En un mundo donde la comunicación efectiva es clave, nuestros servicios de  E-mail marketing están diseñados para ayudarte a alcanzar a tu público objetivo de manera directa y personalizada.",
+    "description2": "Nos especializamos en crear campañas que generan conexiones reales, fomentan relaciones duraderas y aumentan tus conversiones.",
+    "agendarUnaCita": "Agenda una cita"
+  }
+  ,
+  "Hablemos": {
+    "title": "¡Hablemos!",
+    "title2": "Dirección de correo electrónico",
+    "email": "hola@walo-consulting.com.ar",
+    "title3": "Número de teléfono",
+    "telefono": "+54 9 343 419-1913",
+    "agendarUnaCita": "Agenda una cita"
+  }
+}
