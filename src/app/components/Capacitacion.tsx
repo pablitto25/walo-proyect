@@ -44,10 +44,8 @@ const Capacitacion: React.FC = () => {
                 <li>{tCapacitaciones("list4")}</li>
               </ul>
             </div>
-            <div className='italic text-[20px] sm:text-[35px] md:text-[30px] flex justify-center leading-[2]'>
-              {tCapacitaciones("other1")}
-              <br />
-              {tCapacitaciones("other2")}
+            <div className='italic text-[18px] md:text-[20px] lg:text-[24px] xl:text-[28px] flex justify-center leading-[2]'>
+              {tCapacitaciones("other3")}
             </div>
           </div>
           <div className='mt-0 sm:mt-[45vh]'>
